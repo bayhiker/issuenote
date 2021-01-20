@@ -8,7 +8,6 @@
   "keywords": [
     "probot",
     "github",
-    "probot-app"
   ],
   "scripts": {
     "build": "tsc",

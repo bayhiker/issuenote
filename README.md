@@ -1,6 +1,6 @@
 # issuenote
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that Github app to add note to a web page, saving notes to github issues
+> A GitHub App to add note to a web page, saving notes to github issues
 
 ## Setup
 
